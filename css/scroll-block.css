@@ -1,0 +1,54 @@
+	body{
+		direction: rtl;
+		margin: 0px 50px;
+		font-size: 16px;
+		font-family: tahoma;
+		text-align: justify;
+	}
+	.nav{
+		position: fixed;
+		margin: 0px;
+		left: 420px;
+		top: 0;
+		background: rgba(0, 0, 0, 0.5);
+		padding: 10px;
+		border-radius: 20px;
+	}
+	.use{
+		height: 150px;
+		position: relative;
+		top: 50px;
+	}
+	.nav a{
+		text-decoration: none;
+		color: #f60;
+		font-size: 14px;
+		padding: 20px;
+		font-family: tahoma;	
+	}
+	#div1{
+		background: #ffc;
+		height: 500px;	
+		padding: 0px 20px;
+	}
+	#div2{
+		background: #CCE6FF;
+		height: 500px;
+		padding: 0px 20px;
+	}
+	#div3{
+		background: #CCFFF3;
+		height: 500px;
+		padding: 0px 20px;
+	}
+	#div4{
+		background: #CCFFCF;
+		height: 500px;
+		padding: 0px 20px;
+	}
+	#div5{
+		background: #E4E4E4;
+		height: 500px;
+		padding: 0px 20px;
+	}
+	
