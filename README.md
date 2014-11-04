@@ -1,4 +1,0 @@
-jQuery-plugins
-==============
-
-jQuery-plugins
